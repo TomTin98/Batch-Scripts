@@ -1,6 +1,8 @@
 # Batch-Scripts
 A repository for advanced batch scripts
 
+Feel free to contribute new features or add files to the repo!
+
 
 ## License
 
